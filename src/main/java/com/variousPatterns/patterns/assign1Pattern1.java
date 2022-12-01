@@ -4,7 +4,7 @@ package com.variousPatterns.patterns;
 // Trick - Use recWithDiagonal code as a base for alphabets
 public class assign1Pattern1 {
 
-    public static void main(String[] args) {
+    public assign1Pattern1() {
         int row, col;
         int n = 7;
 
