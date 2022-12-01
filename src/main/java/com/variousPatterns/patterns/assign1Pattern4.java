@@ -17,7 +17,7 @@ package com.variousPatterns.patterns;
 
  */
 public class assign1Pattern4 {
-    public static void main(String[] args) {
+    public assign1Pattern4() {
         int row,col;
         int n= 11;
 
