@@ -2,7 +2,9 @@
 File Contents -
 1. Assignment from iNeuron- 
 i.  INEURON in Star Pattern
+
 ::::::::Assignment 1 - Question 1  :::::::
+
 * * * * * * *   *           *   * * * * * * *   *           *   * * * * * * *   * * * * * * *   *           * 
       *         * *         *   *               *           *   *           *   *           *   * *         * 
       *         *   *       *   *               *           *   *           *   *           *   *   *       * 
@@ -12,14 +14,18 @@ i.  INEURON in Star Pattern
 * * * * * * *   *           *   * * * * * * *   * * * * * * *   *           *   * * * * * * *   *           * 
 
 ii.  Printing ROW numbers
+
 ::::::::Assignment 1 - Question 2  :::::::
+
 1 1 1 1 
 2 2 2 2 
 3 3 3 3 
 4 4 4 4 
 
 iii.  Code for Below Patters - 
-      ::::::::Assignment 1 - Question 3  :::::::
+
+::::::::Assignment 1 - Question 3  :::::::
+
 * * * * * * * * * * * 
 * * * * *   * * * * * 
 * * * *       * * * * 
@@ -31,7 +37,10 @@ iii.  Code for Below Patters -
 *                   * 
 *                   * 
 * * * * * * * * * * * 
+
+
 ::::::::Assignment 1 - Question 4  :::::::
+
                       
                       
                       
@@ -43,7 +52,9 @@ iii.  Code for Below Patters -
 * * * *       * * * * 
 * * * * *   * * * * * 
 * * * * * * * * * * * 
+
 ::::::::Assignment 1 - Question 5  :::::::
+
 * * * * * * * * * * * 
 * * * * *             
 * * * *               
