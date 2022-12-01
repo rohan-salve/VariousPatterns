@@ -1,5 +1,5 @@
 # VariousPatterns
-# File Contents -
+File Contents -
 1. Assignment from iNeuron- 
 i.  INEURON in Star Pattern
 ::::::::Assignment 1 - Question 1  :::::::
